@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ErkiLehto
-- 👀 I’m interested in how to learn 
+- 👀 I’m interested in how to learn projets 
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me erkilehto@hotmail.com
