@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ErkiLehto
+- 👋 Hi, I’m @Erki Douglas Bicalho Lehto
 - 👀 I’m interested in how to learn projets 
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on ...
